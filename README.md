@@ -9,7 +9,7 @@ conforms to the following constraints
 
 # Steps to execute the Service
 
-Clone GIT Repository locally 
-Import Maven Project in eclipse
-Deploy prokabbadi-0.0.1-SNAPSHOT.war war in Tomcat
-Open browser and type this URL to see available REST services to generate scheduled matches information : http://localhost:8080/prokabaddi/matches
+1. Clone GIT Repository locally 
+2. Import Maven Project in eclipse
+3. Deploy prokabbadi-0.0.1-SNAPSHOT.war war in Tomcat
+4. Open browser and type this URL to see available REST services to generate scheduled matches information : http://localhost:8080/prokabaddi/matches
